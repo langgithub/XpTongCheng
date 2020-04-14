@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">XpTongCheng</string>
+    <string name="title_activity_detail_house">DetailHouse</string>
+    <string name="title_activity_call_phone">CallPhoneActivity</string>
+</resources>
